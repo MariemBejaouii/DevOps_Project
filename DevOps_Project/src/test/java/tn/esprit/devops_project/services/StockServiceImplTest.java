@@ -13,7 +13,7 @@ import java.util.List;
 import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
+/// test avec JUnit
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 public class StockServiceImplTest {
